@@ -130,6 +130,20 @@
    }
    ```
    
-   
-   
-   
+
+---
+
+编程作业：
+
+1. 最大子列和问题，https://pintia.cn/problem-sets/15/problems/709 ，与课件相同
+
+   代码见[./03-MaxSubseqSum.cpp](./03-MaxSubseqSum.cpp)
+
+2. Maximum Subsequence Sum，https://pintia.cn/problem-sets/16/problems/663 ，问题1的改编
+
+   代码见[./04-MaxSubseqSum.cpp](./04-MaxSubseqSum.cpp)
+
+3. 二分查找，https://pintia.cn/problem-sets/15/problems/923
+
+   代码见[./05-BinarySearch.cpp](./05-BinarySearch.cpp)
+
