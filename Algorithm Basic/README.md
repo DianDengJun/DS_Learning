@@ -15,3 +15,5 @@
 + [逆波兰表达式](./Recursion/04-逆波兰表达式.cpp)
 + [表达式求值](./Recursion/05-表达式求值.cpp)
 + [上台阶](./Recursion/06-上台阶.cpp)
++ [放苹果](./Recursion/07-放苹果.cpp)
++ [算24](./Recursion/08-算24.cpp)
