@@ -1,3 +1,5 @@
+// http://bailian.openjudge.cn/practice/4142/
+
 #include <cmath>
 #include <iostream>
 
