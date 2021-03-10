@@ -17,3 +17,8 @@
 + [上台阶](./Recursion/06-上台阶.cpp)
 + [放苹果](./Recursion/07-放苹果.cpp)
 + [算24](./Recursion/08-算24.cpp)
+
+## [2 Divide 二分](./2Divide)
+
++ [二分查找函数](./2Divide/01-BinarySearch.cpp)
++ [二分法求方程的根](./2Divide/02-二分法求方程的根.cpp)
